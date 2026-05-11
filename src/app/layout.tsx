@@ -21,8 +21,8 @@ export const metadata: Metadata = {
     images: [
       {
         url: config.ogImg,
-        width: 800,
-        height: 600,
+        width: 1895,
+        height: 1080,
         alt: "Portfolio preview",
       },
     ],
@@ -37,6 +37,9 @@ export const metadata: Metadata = {
   robots: {
     index: true,
     follow: true,
+  },
+  verification: {
+    google: "A6K5xgkAP_pg1-IxKAXlGlt2pmWXfNUn-tJVjVyhGFc",
   },
 };
 
